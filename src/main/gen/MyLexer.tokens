@@ -1,0 +1,15 @@
+NUM=1
+PLUS=2
+MINUS=3
+MULTIPLE=4
+DIVISION=5
+LR_BRACKET=6
+RR_BRACKET=7
+SPACE=8
+'+'=2
+'-'=3
+'*'=4
+'/'=5
+'('=6
+')'=7
+' '=8
